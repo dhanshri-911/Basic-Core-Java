@@ -11,11 +11,11 @@ public class LargestNumThree {
      int num1 = sc.nextInt();
      
      Scanner sc1 = new Scanner(System.in);
-     System.out.println("Enter First Number");
+     System.out.println("Enter Second Number");
      int num2 = sc1.nextInt();
      
      Scanner sc2= new Scanner(System.in);
-     System.out.println("Enter First Number");
+     System.out.println("Enter Third Number");
      int num3= sc2.nextInt();
      
      if (num1>=num2 && num1>=num3) {
